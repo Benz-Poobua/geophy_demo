@@ -1,0 +1,16 @@
+# Ignore all PNG images
+*.png
+
+# Ignore Python compiled cache directories
+__pycache__/
+
+# Ignore macOS system file
+.DS_Store
+
+# Ignore all MiniSEED files
+*.mseed
+
+# Ignore environment files (optional if you regenerate them or store them elsewhere)
+requirements.txt
+environment.yml
+
