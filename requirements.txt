@@ -1,0 +1,5 @@
+obspy
+usgs-libcomcat
+matplotlib
+numpy
+ipykernel

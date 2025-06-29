@@ -1,0 +1,13 @@
+name: geophy_demo
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - obspy
+  - matplotlib
+  - numpy
+  - jupyter
+  - ipykernel
+  - pip
+  - pip:
+      - usgs-libcomcat
